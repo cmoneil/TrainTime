@@ -1,0 +1,17 @@
+body {
+    background-image: url(../images/duNord.jpg);
+}
+
+.trainCard, .addCard {
+    padding: 10px;
+    background-color: rgba(225, 231, 232, 0.7);
+
+
+}
+
+.jumbotron {
+    text-align: center;
+    background-color: rgba(225, 231, 232, 0);
+    color: white;
+}
+
